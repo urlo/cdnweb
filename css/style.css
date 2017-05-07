@@ -15,7 +15,7 @@ a:focus, a:hover {
     text-decoration: none;
 }
 .btn,.form-control,.input-group-addon{box-shadow:1px 1px 4px rgba(0,0,0,.4);transition:all .4s ease 0s}
-.logo{background:url(../images/logo.png) no-repeat;width:72px;text-indent:100%;border:0;margin:0 auto}
+.logo{background:url(../images/logo.png) no-repeat;width:72px;text-indent:100%;overflow: hidden;margin:0 auto}
 .logo a{display:block;width:75px;height:75px;text-decoration:none;border:0;margin-top:10px}
 .well{background-color:#f2f5f7}
 .panel-default>.panel-heading{background-color:#00A996;color:#fff}
