@@ -7,3 +7,10 @@ body {
     color: #666668;
     font-family: 'Proxima Nova',Helvetica,Arial,sans-serif;
 }
+a {
+    color: #00a996;
+}
+a:focus, a:hover {
+    color: #23527c;
+    text-decoration: none;
+}
